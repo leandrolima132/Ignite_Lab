@@ -1,0 +1,2 @@
+import{T as e}from"./Text.4bd7fda0.js";import"./clsx.m.a708032b.js";import"./index.74a905e1.js";import"./iframe.d030f552.js";import"./jsx-runtime.a8836ca0.js";const l={title:"Components/Text",component:e,args:{children:"Hello World",size:"md"},argTypes:{size:{options:["sm","md","lg"],control:{type:"inline-radio"}}}},a={argTypes:{children:{table:{disable:!0}},asChild:{table:{disable:!0}}}},n=["Default"];export{a as Default,n as __namedExportsOrder,l as default};
+//# sourceMappingURL=Text.stories.fb06d500.js.map
